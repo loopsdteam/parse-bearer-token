@@ -1,9 +1,9 @@
 {
-  "name": "parse-bearer-token",
+  "name": "@loopsdteam/parse-bearer-token",
   "version": "1.0.0",
   "description": "parse token",
   "main": "index.js",
-  "repository": "https://github.com/loopsdteam/parse-bearer-token.git",
+  "repository": "https://github.com/loopsdteam/parse-bearer-token",
   "author": "fkkmemi",
   "license": "MIT"
 }
