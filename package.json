@@ -1,6 +1,6 @@
 {
   "name": "@loopsdteam/parse-bearer-token",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "parse token",
   "main": "index.js",
   "repository": "https://github.com/loopsdteam/parse-bearer-token",
